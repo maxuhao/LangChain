@@ -1,0 +1,17 @@
+# Langchain相关依赖
+langchain
+langchain-openai
+openai
+dotenv
+langchain-core
+python-dotenv
+langchain-ollama
+langchain-community
+langchain-deepseek
+loguru
+pydantic
+booktype
+dashscope
+langchain-unstructured
+langchain-text-splitters
+langchain-redis
