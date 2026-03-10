@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 # 第一版 硬编码写死 最基础
 # llm = ChatOpenAI(
 #     model="qwen-plus",
-#     api_key="sk-549f31001ce046a3930499f87d1c1384",
+#     api_key="sk-****",
 #     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
 # )
 
